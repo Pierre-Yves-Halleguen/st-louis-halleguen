@@ -12,5 +12,6 @@ public class test {
 	public static void main(String[] args) {
 		System.out.println("Projet existant.");
 		int nombre = 0;
+		System.out.println("Projet modifié.");
 	}
 }
